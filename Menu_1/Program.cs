@@ -12,6 +12,7 @@ internal class Program
             Console.SetCursorPosition(42, 9);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Menú principal\n");
+            Console.WriteLine("Hoka mubdo");
             Console.SetCursorPosition(42, 10);
             Console.WriteLine("(1)\t Menú 1: Programas de introducción");
             Console.SetCursorPosition(42, 11);
